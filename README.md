@@ -1,2 +1,2 @@
 # grouping
-# GAZUA
+# 코린이 키우기
